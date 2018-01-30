@@ -5,6 +5,7 @@ namespace MvcMovie.Controllers
 {
     public class HelloWorldController : Controller
     {
+        //new test commit!
         // 
         // GET: /HelloWorld/
 
